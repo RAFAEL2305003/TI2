@@ -1,4 +1,4 @@
-package Unidade01;
+//package Unidade01;
 import java.util.*;
 class SomarDoisNumeros {
 	public static Scanner sc = new Scanner(System.in);
